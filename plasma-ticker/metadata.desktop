@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=BTCUSD Price Ticker
+Comment=Wyświetla aktualną cenę BTCUSD
+Icon=accessories-calculator
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-DefaultSize=200,50
+X-KDE-PluginInfo-Name=btcusd-price-ticker
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Author=Twoje Imię
+X-KDE-PluginInfo-Email=twój.email@przyklad.com
+X-KDE-PluginInfo-License=GPL-3.0
+X-KDE-PluginInfo-Website=https://przyklad.com
+X-KDE-PluginInfo-Category=Finance
+
